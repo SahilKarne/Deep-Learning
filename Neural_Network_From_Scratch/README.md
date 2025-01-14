@@ -46,7 +46,7 @@ The task is to train a neural network to predict the output of the AND operation
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/yourusername/NeuralNetwork-Implementation.git
+    git clone https://github.com/sahilkarne/Deep-Learning/tree/main/Neural_Network_From_Scratch.git
     ```
 
 2. **Navigate to the project directory**:
