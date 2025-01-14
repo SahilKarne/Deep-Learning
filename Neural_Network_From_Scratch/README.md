@@ -51,7 +51,7 @@ The task is to train a neural network to predict the output of the AND operation
 
 2. **Navigate to the project directory**:
     ```bash
-    cd NeuralNetwork-Implementation
+    cd Neural_Network_From_Scratch
     ```
 
 3. **Run the Python script**:
