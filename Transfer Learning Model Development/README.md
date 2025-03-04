@@ -77,10 +77,3 @@ This project follows a **transfer learning-based approach** using **VGG-19** for
 The model successfully extracts **leaf patterns and textures**, ensuring **accurate classification**.
 
 ---
-
-## 🛠️ Installation & Setup
-
-### **1️⃣ Clone the Repository**
-```bash
-git clone https://github.com/yourusername/plant-species-classification.git
-cd plant-species-classification
