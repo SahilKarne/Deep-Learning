@@ -1,29 +1,10 @@
 
-
-```markdown
 # YOLOv11 Object Detection on COCO Dataset
 
 This repository contains the code and documentation for a Google Colab lab assignment implementing YOLOv11 for real-time object detection using the COCO dataset. The project covers environment setup, dataset acquisition and preprocessing via Roboflow, model training, inference, and performance evaluation.
 
 ---
 
-## Table of Contents
-
-- [Overview](#overview)
-- [Dataset](#dataset)
-  - [Dataset Acquisition](#dataset-acquisition)
-  - [Dataset Structure and Characteristics](#dataset-structure-and-characteristics)
-- [Methodology](#methodology)
-- [Implementation](#implementation)
-- [Results](#results)
-- [Analysis](#analysis)
-- [Conclusion](#conclusion)
-- [Usage](#usage)
-- [Requirements](#requirements)
-- [License](#license)
-- [Acknowledgements](#acknowledgements)
-
----
 
 ## Overview
 
