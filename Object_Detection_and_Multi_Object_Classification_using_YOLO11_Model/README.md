@@ -1,18 +1,18 @@
 
-# YOLOv11 Object Detection on COCO Dataset
+# 🚀 YOLOv11 Object Detection on COCO Dataset
 
 This repository contains the code and documentation for a Google Colab lab assignment implementing YOLOv11 for real-time object detection using the COCO dataset. The project covers environment setup, dataset acquisition and preprocessing via Roboflow, model training, inference, and performance evaluation.
 
 ---
 
 
-## Overview
+## 📌 Overview
 
 This assignment focuses on implementing and evaluating a YOLOv11 model for object detection. The project is executed on Google Colab, where the required libraries (Roboflow, Ultralytics, PyTorch, OpenCV, etc.) are installed. The COCO dataset is acquired via Roboflow, preprocessed, and then used to train a YOLOv11 model. Finally, the trained model is tested on unseen data, and its performance is evaluated using metrics such as Mean Average Precision (mAP), Precision, Recall, and F1 Score.
 
 ---
 
-## Dataset
+## 📂 Dataset
 
 ### Dataset Acquisition
 
@@ -42,7 +42,7 @@ This assignment focuses on implementing and evaluating a YOLOv11 model for objec
 
 ---
 
-## Methodology
+## ⚙️ Methodology
 
 1. **Environment Setup and Installation**
    - Set up your Google Colab environment by installing required libraries such as Roboflow, Ultralytics, PyTorch, and OpenCV.
@@ -68,7 +68,7 @@ This assignment focuses on implementing and evaluating a YOLOv11 model for objec
 ---
 
 
-## Results
+## 📊 Results
 
 The following performance metrics were obtained from the model evaluation:
 - **mAP@50:** 0.1051
@@ -81,7 +81,7 @@ Inference results show bounding boxes on test images with confidence scores. Alt
 
 ---
 
-## Analysis
+## 🔍 Analysis
 
 The evaluation metrics highlight the following key points:
 
@@ -99,14 +99,14 @@ The evaluation metrics highlight the following key points:
 
 ---
 
-## Conclusion
+## ✅ Conclusion
 
 This project demonstrates the complete workflow for deploying YOLOv11 on the COCO dataset using Google Colab. While the model shows reliable detections when it does predict an object (high precision), the overall performance is limited by low recall and mAP. Future improvements will focus on extended training, enhanced data augmentation, and further hyperparameter tuning to develop a more robust object detection system.
 
 ---
 
 
-## Requirements
+## 📋 Requirements
 
 - Python 3.7+
 - Google Colab
