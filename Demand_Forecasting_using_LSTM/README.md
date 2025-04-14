@@ -74,11 +74,11 @@ The project includes the following visualizations:
 
 The models were evaluated on the test set with the following metrics (values may vary):
 - **Standard LSTM:**
-  - RMSE: *[108.84]*
-  - MAE: *[91.49]*
+  - RMSE: *108.84*
+  - MAE: *91.49*
 - **Bidirectional LSTM:**
-  - RMSE: *[108.60]*
-  - MAE: *[92.23]*
+  - RMSE: *108.60*
+  - MAE: *92.23*
 
 These metrics indicate the average difference between the actual and predicted values, confirming the ability of our models to capture demand trends effectively.
 
