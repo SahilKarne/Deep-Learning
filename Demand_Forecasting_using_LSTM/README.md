@@ -1,4 +1,3 @@
-```markdown
 # 🚀 Demand Forecasting in Supply Chain Management using LSTM
 
 This repository contains the implementation of an LSTM-based model for forecasting future values (i.e., demand) in a supply chain environment using retail inventory data. The project is motivated by the research paper *"Evaluation of Deep Learning with Long Short-Term Memory Networks for Time Series Forecasting in Supply Chain Management"* and applies similar techniques to a *Retail Store Inventory Forecasting* dataset from Kaggle.
