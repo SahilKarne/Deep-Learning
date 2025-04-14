@@ -61,32 +61,6 @@ This project aims to:
 
 ---
 
-## 💻 Implementation
-
-- **Language:** Python
-- **Libraries:** NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn, TensorFlow/Keras
-- **Notebook:** The complete code and analysis are available in `demand_forecasting_in_supply_chain_management.py`.
-
-### How to Run
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/demand-forecasting-lstm.git
-   ```
-2. Navigate to the project directory:
-   ```bash
-   cd demand-forecasting-lstm
-   ```
-3. Install required dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
-4. Run the Python script:
-   ```bash
-   python demand_forecasting_in_supply_chain_management.py
-   ```
-
----
-
 ## 📊 Visualizations
 
 The project includes the following visualizations:
@@ -138,6 +112,3 @@ This project successfully demonstrates how LSTM-based models can be used for dem
 ## 🙏 Acknowledgements
 
 - Research Paper: *"Pacella, Massimo & Papadia, Gabriele. (2021). Evaluation of deep learning with long short-term memory networks for time series forecasting in supply chain management. Procedia CIRP. 99. 604-609. 10.1016/j.procir.2021.03.081."*  
-
-
-```
