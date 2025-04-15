@@ -127,12 +127,5 @@ This repository contains:
 - A comprehensive README file (this document) summarizing the entire project.
 - A declaration of academic integrity confirming the work is original.
 
-**Declaration:**  
-I, [Your Full Name], confirm that the work submitted in this assignment is my own and adheres to academic integrity guidelines.
-
-## Repository Link
-The complete project is available on GitHub: [https://github.com/SiddheshKotwal/Deep-Learning/tree/master/Lab_Assignment_5](https://github.com/SiddheshKotwal/Deep-Learning/tree/master/Lab_Assignment_5)
 
 ---
-
-Feel free to update the repository link and other placeholders with your personal details. This README serves as an all-in-one document that provides an overview, technical details, and insights into the project.
