@@ -11,13 +11,6 @@ A deep learning project that classifies tweet sentiments (positive or negative) 
 - [Preprocessing](#preprocessing)
 - [Model Architecture](#model-architecture)
 - [Performance](#performance)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Results](#results)
-- [Visualizations](#visualizations)
-- [Future Work](#future-work)
-- [References](#references)
-
 ---
 
 ## 🧠 About the Project
@@ -82,11 +75,3 @@ This project aims to classify the sentiment of tweets into **positive** or **neg
 📌 **BiLSTM outperforms LSTM** in capturing both forward and backward context of the text.
 
 ---
-
-## 🛠️ Installation
-
-Clone the repository:
-
-```bash
-git clone https://github.com/SahilKarne/Deep-Learning.git
-cd Deep-Learning/Twitter_Sentiment_Analysis_LSTM
