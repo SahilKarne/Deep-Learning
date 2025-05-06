@@ -19,12 +19,12 @@ Each model takes an image as input and generates a descriptive natural language 
 We use the **MS COCO** dataset which contains:
 - 🖼️ 8,000 images
 - 📝 5 human-annotated captions per image  
-- 📦 Available from [Kaggle](https://www.kaggle.com/datasets/adityajn105/flickr8k)
+- 📦 Available from [Kaggle]([https://www.kaggle.com/datasets/adityajn105/flickr8k](https://www.kaggle.com/datasets/sahilkarne/ms-coco-dataset))
 
 Preprocessing includes:
 - Tokenization and padding
 - Vocabulary thresholding
-- Feature extraction using pretrained CNN (InceptionV3/ResNet50)
+- Feature extraction using pretrained CNN (VGG16/ResNet50)
 - Image-text pair formatting
 
 ---
@@ -32,7 +32,7 @@ Preprocessing includes:
 ## 🚀 Approaches
 
 ### 🌀 1. CNN + LSTM (No Attention)
-- **Encoder**: CNN (InceptionV3) extracts image features
+- **Encoder**: CNN (VGG16) extracts image features
 - **Decoder**: LSTM generates captions from extracted features
 
 > 📉 BLEU-4: **0.1101**, METEOR: 0.2154
